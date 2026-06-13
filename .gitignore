@@ -7,3 +7,4 @@ yarn-error.log*
 # serve 관련 설정
 .DS-Store
 .env
+*.txt
